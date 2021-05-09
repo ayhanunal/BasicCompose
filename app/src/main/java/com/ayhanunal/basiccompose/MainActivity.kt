@@ -79,9 +79,9 @@ fun MainScreen(){
             ,horizontalArrangement = Arrangement.SpaceEvenly,
             verticalAlignment = Alignment.CenterVertically
         ) {
-            CustomText(text = "Test1")
+            CustomText(text = "Google")
             Spacer(modifier = Modifier.padding(5.dp))
-            CustomText(text = "Test2")
+            CustomText(text = "Java")
         }
 
     }
