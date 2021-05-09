@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/ayhanunal/BasicCompose/main.png" width="32%"/>
+<img src="https://github.com/ayhanunal/BasicCompose/blob/main/main.png" width="32%"/>
 
 </p>
 
